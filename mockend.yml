@@ -15,5 +15,3 @@ models:
           "stock": 15,
         },
       ]
-
-    hasMany: [Post, Comment] # Relations to other models
