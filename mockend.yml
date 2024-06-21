@@ -1,13 +1,4 @@
 models:
   Inventory:
     data: # Use your own data
-      [
-        {
-          sku: "ak-blue-xs",
-          color: "blue",
-          size: "xs",
-          discoun: null,
-          sold: 35,
-          stock: 15,
-        },
-      ]
+      [{ sku: "ak-blue-xs", color: "blue", size: "xs" }]
