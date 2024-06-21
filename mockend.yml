@@ -32,14 +32,13 @@ models:
         {
           "product_id": "autumnal-knitwear",
           "title": "Features",
-          "description":
-            [
-              "Made from 100% organic wool, offering superior warmth and breathability.",
-              "Features intricate cable knit patterns for a classic aesthetic.",
-              "Pre-shrunk to ensure a consistent fit over time.",
-              "Naturally odor-resistant, ideal for repeated use between washes.",
-              "Ribbed cuffs and hem to retain shape and warmth.",
-            ],
+          "description": "[
+            'Made from 100% organic wool, offering superior warmth and breathability.',
+            'Features intricate cable knit patterns for a classic aesthetic.',
+            'Pre-shrunk to ensure a consistent fit over time.',
+            'Naturally odor-resistant, ideal for repeated use between washes.',
+            'Ribbed cuffs and hem to retain shape and warmth.',
+            ]",
         },
       ]
 
