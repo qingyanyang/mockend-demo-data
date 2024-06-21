@@ -1,6 +1,12 @@
 models:
-  Inventory:
-    data:
+  User:
+    fake: # 100+ random generators
+      _count: 50 # Generate 50 users
+      name: fullName
+      online: bool
+      picture: { imageUrl: [48, 48] }
+
+    data: # Use your own data
       [
         {
           "product_id": "autumnal-knitwear",
@@ -15,14 +21,5 @@ models:
           "stock": 15,
         },
       ]
-  User:
-    fake: # 100+ random generators
-      _count: 50 # Generate 50 users
-      name: fullName
-      online: bool
-      picture: { imageUrl: [48, 48] }
-
-    data: # Use your own data
-      [{ name: "Alice" }]
 
     hasMany: [Post, Comment] # Relations to other models
