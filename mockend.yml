@@ -2668,7 +2668,7 @@ models:
           "product_id": "voyager-hoodie",
           "user_id": "darren-holmes",
           "rating": 5,
-          "content": null,
+          "content": "null",
           "created_at": "2024-03-08",
         },
         {
