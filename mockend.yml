@@ -1,6 +1,4 @@
 models:
-  User:
-    data: [{ test:"test" }]
   Post:
     hasMany: [Comment]
     fake:
