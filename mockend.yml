@@ -15,3 +15,51 @@ models:
           "stock": 15,
         },
       ]
+  Product-image:
+    data:
+      [
+        {
+          "product_id": "autumnal-knitwear",
+          "color": "blue",
+          "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/autumnal-knitwear/autumnal-knitwear-1.jpg",
+        },
+      ]
+  Product-info:
+    data:
+      [
+        {
+          "product_id": "autumnal-knitwear",
+          "title": "Features",
+          "description":
+            [
+              "Made from 100% organic wool, offering superior warmth and breathability.",
+              "Features intricate cable knit patterns for a classic aesthetic.",
+              "Pre-shrunk to ensure a consistent fit over time.",
+              "Naturally odor-resistant, ideal for repeated use between washes.",
+              "Ribbed cuffs and hem to retain shape and warmth.",
+            ],
+        },
+      ]
+  Product-review:
+    data:
+      [
+        {
+          "product_id": "autumnal-knitwear",
+          "user_id": "dante-lancaster",
+          "rating": 4,
+          "content": "A bit pricey, but the quality justifies the cost. Very comfortable.",
+          "created_at": "2024-04-22",
+        },
+      ]
+  Product:
+    data:
+      [
+        {
+          "product_id": "urban-drift-bucket-hat",
+          "name": "Urban Drift Bucket Hat",
+          "description": "Navigate the urban jungle with our Urban Drift Bucket Hat. It's not only trendy but also practical, offering shade from the hustle and bustle.",
+          "category": "unisex",
+          "collection": "urban",
+          "created_at": "2024-04-04",
+        },
+      ]
