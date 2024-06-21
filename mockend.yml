@@ -2,11 +2,21 @@ models:
   User:
     fake: # 100+ random generators
       _count: 50 # Generate 50 users
-      name: fullName
-      online: bool
-      picture: { imageUrl: [48, 48] }
 
     data: # Use your own data
-      [{ name: "Alice" }]
+      [
+        {
+          "product_id": "autumnal-knitwear",
+          "sku": "ak-blue-xs",
+          "color": "blue",
+          "size": "xs",
+          "list_price": 100,
+          "discount": null,
+          "discount_percentage": 10,
+          "sale_price": 90,
+          "sold": 35,
+          "stock": 15,
+        },
+      ]
 
     hasMany: [Post, Comment] # Relations to other models
