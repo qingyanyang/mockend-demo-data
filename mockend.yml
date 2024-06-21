@@ -16,7 +16,7 @@ models:
         },
       ]
 
-  Product-images:
+  User:
     fake: # 100+ random generators
       _count: 50 # Generate 50 users
       name: fullName
