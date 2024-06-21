@@ -15,6 +15,7 @@ models:
           "stock": 15,
         },
       ]
+
   Product-image:
     data:
       [
@@ -24,6 +25,7 @@ models:
           "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/autumnal-knitwear/autumnal-knitwear-1.jpg",
         },
       ]
+
   Product-info:
     data:
       [
@@ -40,6 +42,7 @@ models:
             ],
         },
       ]
+
   Product-review:
     data:
       [
@@ -51,6 +54,7 @@ models:
           "created_at": "2024-04-22",
         },
       ]
+
   Product:
     data:
       [
