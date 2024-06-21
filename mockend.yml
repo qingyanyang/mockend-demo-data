@@ -1,4 +1,17 @@
 models:
   Inventory:
     data: # Use your own data
-      [{ sku: "ak-blue-xs", color: "blue", size: "xs" }]
+      [
+        {
+          "product_id": "autumnal-knitwear",
+          "sku": "ak-blue-xs",
+          "color": "blue",
+          "size": "xs",
+          "list_price": 100,
+          "discount": "null",
+          "discount_percentage": 10,
+          "sale_price": 90,
+          "sold": 35,
+          "stock": 15,
+        },
+      ]
