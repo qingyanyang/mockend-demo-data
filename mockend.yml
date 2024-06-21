@@ -1,8 +1,5 @@
 models:
   User:
-    fake: # 100+ random generators
-      _count: 50 # Generate 50 users
-
     data: # Use your own data
       [
         {
