@@ -3127,7 +3127,7 @@ models:
         {
           "product_id": "autumnal-knitwear",
           "title": "Features",
-          "description": " [
+          "description": "[
             'Made from 100% organic wool, offering superior warmth and breathability.',
             'Features intricate cable knit patterns for a classic aesthetic.',
             'Pre-shrunk to ensure a consistent fit over time.',
@@ -3138,7 +3138,7 @@ models:
         {
           "product_id": "autumnal-knitwear",
           "title": "Fabric & Care",
-          "description": " [
+          "description": "[
             'Hand wash in lukewarm water with a wool-safe detergent.',
             'Lay flat to dry to maintain the garment's shape.',
             'Avoid hanging to prevent stretching.',
@@ -3148,7 +3148,7 @@ models:
         {
           "product_id": "autumnal-knitwear",
           "title": "Shipping",
-          "description": " [
+          "description": "[
             'Free standard shipping on all orders - no minimum spend required.',
             'Expedited shipping available at an additional cost.',
             'Packaged in biodegradable materials to reduce environmental impact.',
@@ -3157,7 +3157,7 @@ models:
         {
           "product_id": "azure-attitude-shades",
           "title": "Features",
-          "description": " [
+          "description": "[
             'UV400 protection to shield eyes from harmful rays.',
             'Lightweight frames crafted from recycled plastics.',
             'Scratch-resistant lenses.',
@@ -3168,42 +3168,34 @@ models:
         {
           "product_id": "azure-attitude-shades",
           "title": "Fabric & Care",
-          "description": " [
+          "description": "[
             'Clean lenses with a soft, lint-free cloth and mild lens cleaner.',
             'Store in the provided pouch when not in use.',
             'Avoid exposure to extreme temperatures to prevent warping.',
             ]",
         },
-        {
-          "product_id": "voyager-hoodie",
-          "title": "Features",
-          "description": " [
+        { "product_id": "voyager-hoodie", "title": "Features", "description": "[
             'Designed for comfort and durability.',
             'Soft, breathable fabric ideal for travel and adventure.',
             'Large front pocket and adjustable hood.',
             'Minimalist design pairs well with any style.',
             'Made with eco-conscious materials.',
-            ]",
-        },
+            ]" },
         {
           "product_id": "voyager-hoodie",
           "title": "Fabric & Care",
-          "description": " [
+          "description": "[
             'Machine wash cold on a gentle cycle.',
             'Tumble dry low or hang to dry.',
             'Do not use fabric softeners or bleach.',
             'Iron on a low setting if necessary.',
             ]",
         },
-        {
-          "product_id": "voyager-hoodie",
-          "title": "Shipping",
-          "description": " [
+        { "product_id": "voyager-hoodie", "title": "Shipping", "description": "[
             'Free standard shipping on all orders - no minimum spend required.',
             'Expedited shipping available at an additional cost.',
             'Packaged in biodegradable materials to reduce environmental impact.',
-            ]",
-        },
+            ]" },
       ]
 
   Product:
